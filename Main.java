@@ -16,7 +16,7 @@ public class Main {
         if(c==2){
             System.out.println(X+" eh primo ");
         }else{
-            System.out.println(X+" não eh primo ");
+            System.out.println(X+" nao eh primo ");
         }
     } 
     
